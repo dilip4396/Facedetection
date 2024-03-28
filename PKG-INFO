@@ -1,3 +1,26 @@
+Metadata-Version: 2.1
+Name: random-password-generator
+Version: 2.2.0
+Summary: Simple and custom random password generator for python
+Home-page: https://github.com/suryasr007/random-password-generator
+Author: Surya Teja Reddy Valluri
+Author-email: 94suryateja@gmail.com
+License: MIT
+Keywords: random password generator different lengths
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Information Technology
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Utilities
+Classifier: Operating System :: POSIX
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # Random password Generator
 [![PyPI version](https://img.shields.io/badge/PYPI-V%202.2.0-blue.svg)](https://pypi.org/project/random-password-generator)
 [![Build Status](https://travis-ci.org/suryasr007/random-password-generator.svg?branch=master)](https://travis-ci.org/suryasr007/random-password-generator)
@@ -100,3 +123,5 @@ Contributions are welcomed via PR.
 
 ## License
  * [MIT](LICENSE)
+
+
